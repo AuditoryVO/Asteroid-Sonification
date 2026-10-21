@@ -1,2 +1,5 @@
-# Asteroid-Sonification
-<img width="640" height="480" alt="Asteroid" src="https://github.com/user-attachments/assets/c69fac8c-534c-43df-a35e-c83f7dc4a143" />
+# Asteroid Sonification
+
+
+https://github.com/user-attachments/assets/51bc260a-1726-4c35-9307-e8a9e3e896c3
+
